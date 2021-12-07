@@ -1,1 +1,0 @@
-# patika-java-101
